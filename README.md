@@ -62,3 +62,6 @@ Room Map:
 - dtekv-run main.bin
 
 In order to compile and run the program the command make needs to be ran. When this has been done the command dtekv-run main.bin can be executed to start the program.
+
+### Collaborations
+This project is a collaboration between @CasperWaller and @aryanmasiul007
